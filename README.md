@@ -1,4 +1,4 @@
 madhulikamakecallrepo
 =====================
 
-jsp servlet based application to take input from users and make call.
+The project contains code for account and application related plivo functionalities
